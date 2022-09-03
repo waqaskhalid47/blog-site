@@ -4,6 +4,7 @@ function index(props) {
     return (
         <div>
             ADD YOUR BLOG
+            test
         </div>
     );
 }
